@@ -164,6 +164,9 @@ public class MainActivity extends AppCompatActivity {
         prefsEditor.commit();
     }
 
-
-
+    @Override
+    protected void onDestroy() {
+        mp.stop();
+        super.onDestroy();
+    }
 }
