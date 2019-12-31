@@ -2,15 +2,15 @@
 
 # Piano Tiles
 
-It's a game which plays music on clicking black/highlghted tiles. Game overs on clicking white tiles.
+It's a game which plays music on clicking black/highlghted tiles. Game overs on clicking white tiles. Local high score is stored in SharedPreferences.
 
 ## Screenshots
 
 <table>
   <tr>
-    <td><img src="ScreenShots/ss1.jpg" height = "auto" width="auto"></td>
-    <td><img src="ScreenShots/ss2.jpg" height = "auto" width="auto"></td>
-    <td><img src="ScreenShots/ss3.jpg" height = "auto" width="auto"></td>
+    <td><img src="Screenshots/ss1.jpg" height = "auto" width="auto"></td>
+    <td><img src="Screenshots/ss2.jpg" height = "auto" width="auto"></td>
+    <td><img src="Screenshots/ss3.jpg" height = "auto" width="auto"></td>
   </tr>
 </table>
 
