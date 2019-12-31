@@ -21,9 +21,9 @@ Java is used to develop this native android app.
 
 ## License
 
-      MIT License
+    MIT License
 
-    Copyright <2019> <JATIN SACHDEVA>
+    Copyright (c) 2019 JATIN SACHDEVA
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
